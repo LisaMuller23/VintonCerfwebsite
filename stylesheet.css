@@ -1,0 +1,66 @@
+
+body {
+  background-color:#c2c2c2;
+  margin-top:0px;
+  font-family: Times;
+  font-weight: bold;
+}
+#container {margin-left:auto;margin-right:auto;width:725px;}
+
+#kop {
+  width: 720px;
+  height:110px;
+  background-color:#7cafde;
+  font-size: 100px;
+  border-style: solid;
+  text-align: center;
+}
+#menu {
+  padding: 5px;
+  width:200px;
+  background-color:#acccde;
+  float: left;
+}
+ul li a:hover {
+  font-weight: bold;
+  color: white;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+#inhoud {
+  padding: 5px;
+  width:503px;
+  background-color:#deebf7;
+  float: left;
+  border-style: solid;
+  border-width: thin;
+}
+p {
+  font-size: 17px;
+}
+#wrapper {
+  background-color: #acccde;
+}
+#footer {
+  padding:5px;
+  width:716px;
+  background-color:#7cafde;
+  clear:both;
+}
+.cursief {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+.underline {text-decoration:underline;}
+
+.media  {
+    border-style: solid;
+}
+.kleur {
+  color: #14228A;
+}
